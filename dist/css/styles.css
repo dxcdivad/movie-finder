@@ -1,0 +1,36 @@
+body {
+  background: #ECE9E6;
+  background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);
+}
+
+.container {
+  width: 80%;
+}
+
+#resultimg {
+  width: 236px;
+  height:350px;
+  float:right;
+}
+
+#detailimg {
+  width: 404px;
+  height:600px;
+  float: right;
+}
+
+#detailimagecard {
+  padding: 0px;
+  margin: 0px;
+}
+
+#moreInfo {
+  position: absolute;
+  right:0;
+  bottom:0;
+  margin: 0px -10px 10px 0px;
+}
+
+.badge {
+  margin: 5px;
+}
